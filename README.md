@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on Flutter Project that will aim to upskill<br>🌱 I’m currently learning on React Native Development<br>💬 Ask me about<br>⚡ Fun fact: Work life balance is essential
+🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on Flutter Project that will aim to upskill<br>🌱 I’m exploring on Kotlin Development<br>💬 Ask me about<br>⚡ Fun fact: Work life balance is essential
 
 
 ## 🌐 Socials:
