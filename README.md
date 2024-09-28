@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on Flutter Project that will aim to upskill<br>🌱 I’m exploring more on Flutter Development<br>💬 Fun fact: Work life balance is essential
 
-
+s
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Christian Kit Rotairo) 
 
